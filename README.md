@@ -16,6 +16,8 @@ En esta materia realmente no estamos viendo nada nuevo, nos estan explotando con
 ### Profesor: Jonathan Mircha
 En esta materia estamos aprendiendo a usar Visual Studio Code y ahorita estamos aprendiendo a usar GIT.
 
-### Materia: Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
-## Profesor: Sebastian Mejia (creo, hemos tenido 3 profesores)
+## Materia: Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+### Profesor: Sebastian Mejia (creo, hemos tenido 3 profesores)
 Esta materia es un poco confusa pero estamos aprendiendo a hacer como un documento de texto, como si fuera Word pero en Miktex creo, o sea, un Word pero sin UI.
+
+## Y ya, yo ya no tengo ingles :D
