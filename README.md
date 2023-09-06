@@ -7,3 +7,7 @@ En esta materia aprendemos a como manejar la computadora por medio de comandos y
 ## Materia: Principios de composición y diseño
 ### Profesor: Roberto Melo
 En esta materia estamos aprendiendo a usar photoshop, hasta ahora hemos hecho restauraciones de fotos viejas y fotomontajes, la siguiente semana diseñaremos la portada de un proyecto.
+
+## Materia: Diseño de videojuegos
+### Profesor: Hector Guerrero
+En esta materia realmente no estamos viendo nada nuevo, nos estan explotando con tareas de un juego TERMINADO por semana... 
