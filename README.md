@@ -11,3 +11,7 @@ En esta materia estamos aprendiendo a usar photoshop, hasta ahora hemos hecho re
 ## Materia: Diseño de videojuegos
 ### Profesor: Hector Guerrero
 En esta materia realmente no estamos viendo nada nuevo, nos estan explotando con tareas de un juego TERMINADO por semana... 
+
+### Materia: Programación en lenguajes interpretados
+### Profesor: Jonathan Mircha
+En esta materia estamos aprendiendo a usar Visual Studio Code y ahorita estamos aprendiendo a usar GIT 
